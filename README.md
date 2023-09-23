@@ -1,4 +1,4 @@
-# practica 
+# practica
 <html>
     <body bgcolor="teal">
        <h1 style="color:rgb(255, 194, 82);">Clásicos del cine - Reseñas de películas</h1>
